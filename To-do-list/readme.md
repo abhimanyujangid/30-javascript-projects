@@ -10,4 +10,4 @@
 </ui>
 
 <img src="image/1.png" alt="">
-<img src="images/2.png" alt="">
+
