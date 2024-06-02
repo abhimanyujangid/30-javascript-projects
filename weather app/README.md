@@ -8,3 +8,6 @@ Features
 <li>Show humidity levels.</li>
 <li>Indicate wind speed.</li>
 </ul>
+
+
+<img src="./Screenshot from 2024-06-02 22-39-31.png">
