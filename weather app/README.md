@@ -10,4 +10,4 @@ Features
 </ul>
 
 
-<img src="./Screenshot from 2024-06-02 22-39-31.png">
+<img src="./weather-app-img/Screenshot from 2024-06-02 22-39-31.png">
